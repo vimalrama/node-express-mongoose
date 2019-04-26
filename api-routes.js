@@ -23,5 +23,16 @@ router.route('/contacts/:contact_id')
     .put(contactController.update)
     .delete(contactController.delete);
 
+// Import user controller
+var userController = require('./userController')
+
+//User routes
+
+router.route('/users')
+    .get(userController.index)
+    .post(userController.new)
+
+
+
 // Export API routes
 module.exports = router;
