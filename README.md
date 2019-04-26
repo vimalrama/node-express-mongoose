@@ -15,4 +15,4 @@ The `api` uri preceeds all API endpoints and the following endpoints are current
 Get in Touch
 ===============
 
-I am available on twitter, facebook, linkedin, gmail @dinyangetoh
+I am available on twitter, facebook, linkedin, gmail @vimal.adodis
