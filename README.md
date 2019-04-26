@@ -12,10 +12,6 @@ The `api` uri preceeds all API endpoints and the following endpoints are current
 * PATCH `/api/contacts/:id`
 * DELETE `/api/contacts/:id`
 
-The live app is available on heroku here
-https://arcane-spire-97294.herokuapp.com
-
-
 Get in Touch
 ===============
 
