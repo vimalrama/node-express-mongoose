@@ -12,8 +12,8 @@
     "restful",
     "json"
   ],
-  "author": "David Inyang-Etoh",
-  "license": "ISC",
+  "author": "Vimal Ram",
+  "license": "",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
